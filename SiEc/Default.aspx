@@ -23,6 +23,7 @@
                 <ul class="right hide-on-med-and-down">
                     <li><a href="sass.html">Lista de precio</a></li>
                     <li><a href="badges.html">Pedidos</a></li>
+                    <li><a href="badges.html">Pedidos2</a></li>
                 </ul>
             </div>
         </nav>
@@ -30,6 +31,7 @@
     <ul class="sidenav" id="mobile-demo">
         <li><a href="sass.html">Lista de precio</a></li>
         <li><a href="badges.html">Pedidos</a></li>
+        <li><a href="badges.html">Pedidos2</a></li>
     </ul>
     <script type="text/javascript">
         var elem = document.querySelector('.sidenav');
