@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\RSG\inetWF</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/IBusiness.dll">
+      <publishTime>02/07/2018 17:11:05</publishTime>
+    </File>
+    <File Include="bin/IEntities.dll">
+      <publishTime>01/30/2018 14:27:38</publishTime>
+    </File>
+    <File Include="bin/IPersistence.dll">
+      <publishTime>02/07/2018 17:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>02/07/2018 11:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>02/07/2018 11:10:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>02/07/2018 11:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>02/07/2018 11:10:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>02/07/2018 11:10:53</publishTime>
+    </File>
+    <File Include="bin/WF001.dll">
+      <publishTime>02/09/2018 17:01:17</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/09/2018 14:55:28</publishTime>
+    </File>
+    <File Include="images/sf-logo.jpg">
+      <publishTime>02/09/2018 17:00:04</publishTime>
+    </File>
+    <File Include="lang/EN.json">
+      <publishTime>02/07/2018 17:09:31</publishTime>
+    </File>
+    <File Include="lang/ES.json">
+      <publishTime>02/07/2018 17:09:35</publishTime>
+    </File>
+    <File Include="List.aspx">
+      <publishTime>02/09/2018 17:00:18</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>02/09/2018 15:53:20</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>01/30/2018 17:43:32</publishTime>
+    </File>
+    <File Include="materialize/css/materialize.css">
+      <publishTime>01/30/2018 15:25:28</publishTime>
+    </File>
+    <File Include="materialize/css/materialize.min.css">
+      <publishTime>01/30/2018 15:25:28</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Bold.woff">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Bold.woff2">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Light.woff">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Light.woff2">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Medium.woff">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Medium.woff2">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Regular.woff">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Regular.woff2">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Thin.woff">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/fonts/roboto/Roboto-Thin.woff2">
+      <publishTime>12/28/2017 14:03:01</publishTime>
+    </File>
+    <File Include="materialize/js/materialize.js">
+      <publishTime>01/30/2018 15:50:53</publishTime>
+    </File>
+    <File Include="materialize/js/materialize.min.js">
+      <publishTime>01/30/2018 15:25:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/07/2018 17:11:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
